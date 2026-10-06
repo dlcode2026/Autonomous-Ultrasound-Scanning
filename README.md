@@ -9,6 +9,6 @@ The contribution of the robotic platforms is divided between two teams:
  
 - Experiment with UR10: Team DR. Yahya Zweiri from the Advanced Research and Innovation Centre (ARIC) at Khalifa University, Abu Dhabi, UAE.
 
-![Description of image](images/ur10_experiment.png)
+![Description of image](ur10_experiment.png)
 
 
