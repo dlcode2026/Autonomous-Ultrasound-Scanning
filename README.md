@@ -5,7 +5,7 @@ The contribution of the robotic platforms is divided between two teams:
 
 - Experiment with UR5e: Team DR. Xie Wenfnag from the Department of Mechanical, Industrial and Aerospace Engineering at Concordia University, Montreal, Canada.
 
- ![Description of image](images/ur5e_experiment.png)
+ ![Description of image](ur5e_experiment.png)
  
 - Experiment with UR10: Team DR. Yahya Zweiri from the Advanced Research and Innovation Centre (ARIC) at Khalifa University, Abu Dhabi, UAE.
 
