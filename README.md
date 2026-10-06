@@ -3,7 +3,7 @@ The goal of this project is to develop an artificial intelligence-based solution
 
 **The proposed framework for the Vimedix experiments:**
 
-![Description of image](frameowrk_vimedix.png)
+![Description of image](framework_vimedix.png)
 
 **Robotic Platforms:**
 
